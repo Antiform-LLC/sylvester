@@ -27,10 +27,8 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "git://github.com/jcoglan/sylvester.git"
-    }
-  ]
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jcoglan/sylvester.git"
+  }
 }
